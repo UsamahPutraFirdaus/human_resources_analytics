@@ -109,3 +109,15 @@ Berikut adalah point-point penting dari hasil interpretasi diatas:
 3. **Jabatan Tertentu Memiliki Risiko Tinggi Attrition** : posisi seperti Laboratory Technician 49 keluar dari 188 → ~26.1%, Sales Representative: 25 keluar dari 58 → ~43.1% (sangat tinggi), Sales Executive dan Research Scientist juga cukup tinggi. Posisi tersebut kemungkinan memiliki beban kerja tinggi, tekanan target, atau kurang peluang berkembang.
    
 ## Recommended Action Items
+Berikut adalah Recommended action untuk perusahaan sebagai bahan pertimbangan:
+1. Fokus pada Perbaikan Work-Life Balance
+
+   Karyawan dengan work-life balance rendah menunjukkan persentase attrition tertinggi. Perusahaan perlu menerapkan kebijakan yang mendukung keseimbangan kerja dan kehidupan, seperti jam kerja fleksibel, pengurangan beban kerja berlebih, serta dukungan kesehatan mental.
+
+2. Pertahankan Karyawan Muda dengan Program Pengembangan
+
+   Attrition paling banyak terjadi pada usia 18–30 tahun. Perusahaan disarankan untuk membuat program mentoring, pelatihan karier yang menarik, serta memperjelas jalur promosi agar karyawan muda merasa dihargai dan memiliki prospek di perusahaan.
+
+3. Tinjau Ulang Jabatan dengan Tingkat Keluar Tinggi
+
+   Posisi seperti Sales Representative dan Laboratory Technician memiliki risiko keluar tinggi. Perusahaan perlu mengevaluasi ulang beban kerja, sistem insentif, dan kepuasan kerja di jabatan tersebut untuk menekan angka keluar.
