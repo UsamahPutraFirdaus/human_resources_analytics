@@ -37,7 +37,7 @@ Setup Environment:
 ## Business Dashboard
 [Jaya Jaya Maju Dashboard](https://lookerstudio.google.com/reporting/331604dd-32cb-4233-996b-fca7c3e5c751) didesain sefektif mungkin untuk memberikan insight kepada para manajer departemen HR terkait attrition rate yang cukup tinggi hingga lebih dari 10%.
 
-  ![img alt](https://github.com/UsamahPutraFirdaus/human_resources_analytics/blob/main/Looker%20Studio%20Dasboard.png?raw=true)
+  ![img alt](https://github.com/UsamahPutraFirdaus/human_resources_analytics/blob/main/Usamah%20Putra%20Firdaus-Dasboard.png?raw=true)
 
 Berikut adalah interpretasi dari hasil Dashboard yang telah dibuat:
 1. Summary
