@@ -35,3 +35,6 @@ Setup Environment:
    ```
 
 ## Business Dashboard
+[Jaya Jaya Maju Dashboard] didesain sefektif mungkin untuk memberikan insight kepada para manajer departemen HR terkait attrition rate yang cukup tinggi hingga lebih dari 10%.
+
+  ![img alt](?raw=true)
